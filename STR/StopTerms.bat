@@ -1,0 +1,21 @@
+@echo on
+StopTerms.exe ST.txt D1.txt D1-mad-ST.txt mad
+StopTerms.exe ST.txt D2.txt D2-mad-ST.txt mad
+StopTerms.exe ST.txt D3.txt D3-mad-ST.txt mad
+StopTerms.exe ST.txt D4.txt D4-mad-ST.txt mad
+StopTerms.exe ST.txt D5.txt D5-mad-ST.txt mad
+StopTerms.exe ST.txt D6.txt D6-mad-ST.txt mad
+StopTerms.exe ST.txt D7.txt D7-mad-ST.txt mad
+StopTerms.exe ST.txt D8.txt D8-mad-ST.txt mad
+StopTerms.exe ST.txt D9.txt D9-mad-ST.txt mad
+StopTerms.exe ST.txt D10.txt D10-mad-ST.txt mad
+StopTerms.exe ST.txt D11.txt D11-mad-ST.txt mad
+StopTerms.exe ST.txt D12.txt D12-mad-ST.txt mad
+StopTerms.exe ST.txt D13.txt D13-mad-ST.txt mad
+StopTerms.exe ST.txt D14.txt D14-mad-ST.txt mad
+StopTerms.exe ST.txt D15.txt D15-mad-ST.txt mad
+StopTerms.exe ST.txt D16.txt D16-mad-ST.txt mad
+StopTerms.exe ST.txt D17.txt D17-mad-ST.txt mad
+StopTerms.exe ST.txt D18.txt D18-mad-ST.txt mad
+StopTerms.exe ST.txt D19.txt D19-mad-ST.txt mad
+StopTerms.exe ST.txt D20.txt D20-mad-ST.txt mad

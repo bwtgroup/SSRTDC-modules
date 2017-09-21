@@ -1,0 +1,21 @@
+@echo on
+man2mad.exe D1-man.txt D1-man-mad.txt
+man2mad.exe D2-man.txt D2-man-mad.txt
+man2mad.exe D3-man.txt D3-man-mad.txt
+man2mad.exe D4-man.txt D4-man-mad.txt
+man2mad.exe D5-man.txt D5-man-mad.txt
+man2mad.exe D6-man.txt D6-man-mad.txt
+man2mad.exe D7-man.txt D7-man-mad.txt
+man2mad.exe D8-man.txt D8-man-mad.txt
+man2mad.exe D9-man.txt D9-man-mad.txt
+man2mad.exe D10-man.txt D10-man-mad.txt
+man2mad.exe D11-man.txt D11-man-mad.txt
+man2mad.exe D12-man.txt D12-man-mad.txt
+man2mad.exe D13-man.txt D13-man-mad.txt
+man2mad.exe D14-man.txt D14-man-mad.txt
+man2mad.exe D15-man.txt D15-man-mad.txt
+man2mad.exe D16-man.txt D16-man-mad.txt
+man2mad.exe D17-man.txt D17-man-mad.txt
+man2mad.exe D18-man.txt D18-man-mad.txt
+man2mad.exe D19-man.txt D19-man-mad.txt
+man2mad.exe D20-man.txt D20-man-mad.txt
